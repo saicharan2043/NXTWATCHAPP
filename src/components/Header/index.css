@@ -1,0 +1,163 @@
+.night-mode-icon {
+  width: 30px;
+  height: 30px;
+  margin-right: 40px;
+  align-self: center;
+}
+
+.light-mode-icon {
+  width: 30px;
+  height: 30px;
+  margin-right: 40px;
+  align-self: center;
+  color: #ffffff;
+}
+@media (max-width: 767px) {
+  .light-mode-icon {
+    width: 25px;
+    height: 25px;
+    margin-right: 20px;
+  }
+  .night-mode-icon {
+    width: 25px;
+    height: 25px;
+    margin-right: 20px;
+  }
+}
+
+.light-mode {
+  width: 30px;
+  height: 30px;
+  margin-right: 40px;
+  align-self: center;
+  color: #ffffff;
+}
+
+.dark-icons {
+  height: 25px;
+  width: 25px;
+  margin-right: 20px;
+}
+
+.light-icons {
+  height: 25px;
+  width: 25px;
+  margin-right: 20px;
+  color: #ffffff;
+}
+.icons {
+  height: 25px;
+  width: 25px;
+  margin-right: 20px;
+}
+
+.icons-tab {
+  width: 20px;
+  height: 20px;
+  margin-right: 20px;
+  color: #475569;
+}
+
+/* .dark-icons-tab {
+  width: 20px;
+  height: 20px;
+  margin-right: 20px;
+  color: #616e7c;
+} */
+
+.icons-light-mode {
+  width: 20px;
+  height: 20px;
+  margin-right: 20px;
+  color: #cbd5e1;
+}
+
+@media (min-width: 768px) {
+  .icons-tab {
+    width: 25px;
+    height: 25px;
+    margin-right: 30px;
+  }
+
+  .icons-light-mode {
+    width: 25px;
+    height: 25px;
+    margin-right: 30px;
+  }
+}
+
+.link {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.close-icon-of-banner {
+  height: 25px;
+  width: 25px;
+  align-self: flex-start;
+  color: #181818;
+  padding: 0px;
+  cursor: pointer;
+}
+
+.icon-search {
+  width: 20px;
+  height: 20px;
+  color: #383838;
+}
+
+.icon-search-darnk {
+  width: 20px;
+  height: 20px;
+  color: #cccccc;
+}
+
+.change-icon-Color {
+  color: #ff0000;
+}
+
+.icon-game {
+  width: 35px;
+  height: 35px;
+  color: #ff0000;
+}
+
+.icon-game {
+  height: 30px;
+  width: 30px;
+}
+@media (max-width: 767px) {
+  .icon-game {
+    height: 30px;
+    width: 30px;
+  }
+}
+
+.thumbnail-video-in-VI-lg {
+  display: block;
+}
+
+.thumbnail-video-in-VI-sm {
+  display: none;
+}
+
+@media (max-width: 767px) {
+  .thumbnail-video-in-VI-lg {
+    display: none;
+  }
+
+  .thumbnail-video-in-VI-sm {
+    display: block;
+  }
+}
+
+.icon-like-in-VI {
+  width: 25px;
+  height: 25px;
+  color: #64748b;
+  margin-right: 8px;
+}
+
+.like-active {
+  color: #2563eb;
+}
